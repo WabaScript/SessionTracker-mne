@@ -1,0 +1,17 @@
+p {
+    margin: 10px 0 !important;
+}
+
+h3 {
+    margin: 4px 0 !important;
+}
+
+body {
+    background: greenyellow;
+}
+
+.login-container {
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
