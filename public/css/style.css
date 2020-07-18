@@ -28,3 +28,8 @@ body {
 .img-small {
     width: 180px;
 }
+
+.img-smaller {
+    margin-top: 10px;
+    width: 110px;
+}
