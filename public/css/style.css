@@ -57,7 +57,7 @@ table {
 }
 
 .img-small {
-    width: 80px;
+    width: 60px;
 }
 
 .img-smaller {
@@ -72,6 +72,12 @@ table {
 .card-title {
     font-size: 16px !important;
     font-weight: 600 !important;
+}
+
+.card-title-two {
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    margin: 3px 3px 3px px !important;
 }
 
 .card-action {

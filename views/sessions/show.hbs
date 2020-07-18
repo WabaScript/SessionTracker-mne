@@ -5,15 +5,15 @@
         </h5>
         <div class="card story">
             <div class="card-content">
-                <span class="card-title flow-text">{{formatDate session.createdAt}}</span>
+                <span class="card-title">{{formatDate session.createdAt}}</span>
                 {{{session.body}}}
             </div>
         </div>
     </div>
     <div class="col s5 m3">
-        <div class="card  center-align">
+        <div class="card center-align">
             <div class="card-content">
-                <span class="card-title">{{session.user.displayName}}</span>
+                <span class="responsive-card-title card-title-two">{{session.user.displayName}}</span>
                 <img src="{{session.user.image}}" class="circle responsive-img img-small">
             </div>
             <div class="card-action">
