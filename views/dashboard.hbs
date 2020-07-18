@@ -13,9 +13,9 @@
         <tbody>
             {{#each sessions}}
                 <tr>
-                    <td class="motion"><a href="/sessions/{{_id}}">{{title}}</a></td>
-                    <td>{{formatDate createdAt}}</td>
-                    <td><span class="dash-status">{{status}}</span></td>
+                    <td class="motion" style="font-size:1.55vw"><a href="/sessions/{{_id}}">{{title}}</a></td>
+                    <td style="font-size:1.55vw">{{formatDate createdAt}}</td>
+                    <td><span class="dash-status"style="font-size:1.55vw">{{status}}</span></td>
                     <td class="row1">
                         <a href="/sessions/edit/{{_id}}" class="btn btn-float ">
                             <i class="fas fa-edit"></i>
