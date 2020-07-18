@@ -33,3 +33,7 @@ body {
     margin-top: 10px;
     width: 110px;
 }
+
+.row1 {
+    display: flex;
+}
