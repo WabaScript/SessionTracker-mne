@@ -2,13 +2,35 @@ p {
     margin: 10px 0 !important;
 }
 
-h3 {
-    margin: 4px 0 !important;
+h4 {
+    font-family: Helvetica Narrow, sans-serif;
+    margin: 20px 0 !important;
 }
 
 body {
     background: greenyellow;
 }
+
+table {
+    border-radius: 20px;
+}
+
+ tbody tr:nth-child(odd):hover {
+    background-color: greenyellow !important;
+
+ }
+
+ .motion {
+    -webkit-transition: text-shadow 0.2s linear;
+    -moz-transition: text-shadow 0.2s linear;
+    -ms-transition: text-shadow 0.2s linear;
+    -o-transition: text-shadow 0.2s linear;
+    transition: text-shadow 0.2s linear;
+ }
+ .motion:hover {
+    text-shadow: 0 0 30px black;
+    text-size-adjust: 300%;
+ }
 
 .login-container {
     width: 400px;
@@ -26,7 +48,7 @@ body {
 }
 
 .img-small {
-    width: 180px;
+    width: 100px;
 }
 
 .img-smaller {

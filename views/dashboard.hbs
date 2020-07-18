@@ -1,5 +1,4 @@
-<h6>Sessions</h6>
-<h3> Welcome, {{name}} ! </h3>
+<h4> Welcome, {{name}}! </h4>
 <p>Here are your sessions</p>
 {{#if sessions}}
     <table class="striped">
@@ -14,7 +13,7 @@
         <tbody>
             {{#each sessions}}
                 <tr>
-                    <td><a href="/sessions/{{_id}}">{{title}}</a></td>
+                    <td class="motion"><a href="/sessions/{{_id}}">{{title}}</a></td>
                     <td>{{formatDate createdAt}}</td>
                     <td><span class="dash-status">{{status}}</span></td>
                     <td class="row1">
