@@ -20,6 +20,15 @@ table {
 
  }
 
+ .focus {
+     display: flexbox !important;
+     flex-direction: column !important;
+     align-items: center !important;
+     justify-content: center !important;
+     margin-left: 30px;
+
+ }
+
  .motion {
     -webkit-transition: text-shadow 0.2s linear;
     -moz-transition: text-shadow 0.2s linear;
