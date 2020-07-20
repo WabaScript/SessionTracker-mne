@@ -29,7 +29,7 @@ router.get('/', ensureAuth, async (req, res) => {
     try {
         const sessions = await Session.find({ status: 'public' })
             .populate('user')
-            .sort({ createdAt: 'desc' })
+            .sort({ createdAt: -1 })
             .lean()
 
         res.render('sessions/index', {

@@ -16,7 +16,7 @@ router.get('/', ensureGuest, (req, res) => {
 // @route   GET /dashboard
 router.get('/dashboard', ensureAuth, async (req, res) => {
     try {
-        const sessions = await Session.find({user: req.user.id }).lean()
+        const sessions = await Session.find({user: req.user.id }).sort({ createdAt: -1 }).lean()
         res.render('dashboard', {
             name: req.user.firstName,
             image: req.user.image,
