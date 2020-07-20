@@ -149,7 +149,7 @@ router.get('/user/:userId', ensureAuth, async (req, res) => {
         res.render('sessions/index', {
             sessions
         })
-    } catch (error) {
+    } catch (err) {
         console.error(err)
         res.render('error/500')
     }
