@@ -16,7 +16,7 @@ Track anything and share with friends, ex. keeping a running score with a compet
          <a href="https://user-images.githubusercontent.com/59180399/88076261-dc751a80-cb47-11ea-91dc-f2fb722eb3e1.png" title="SessionsBoard" alt="Sesh" width="70%" height="70%"></a>
         </td>
         <td align="center">
-          <a href=""https://user-images.githubusercontent.com/59180399/88076267-de3ede00-cb47-11ea-9867-1a793ad65aa0.png"" title="SessionsPublic" alt="Sesh" width="70%" height="70%"></a>
+          <a href="https://user-images.githubusercontent.com/59180399/88076267-de3ede00-cb47-11ea-9867-1a793ad65aa0.png" title="SessionsPublic" alt="Sesh" width="70%" height="70%"></a>
         </td>
       </tr>
     </tbody>
