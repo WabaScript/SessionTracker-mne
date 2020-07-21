@@ -13,10 +13,10 @@ Track anything and share with friends, ex. keeping a running score with a compet
       </tr>
       <tr>
         <td align="center">
-          <a href="https://github.com/WabaScript/SessionTracker-mne"><img src="https://user-images.githubusercontent.com/59180399/88076261-dc751a80-cb47-11ea-91dc-       f2fb722eb3e1.png" title="SessionsBoard" alt="Sesh" width="70%" height="70%"></a>
+          <a href="https://github.com/WabaScript/SessionTracker-mne"><img src="https://user-images.githubusercontent.com/59180399/88076261-dc751a80-cb47-11ea-91dc-       f2fb722eb3e1.png" title="SessionsBoard" alt="Sesh" width="50%" height="50%"></a>
         </td>
         <td align="center">
-          <a href="https://github.com/WabaScript/SessionTracker-mne"><img src="https://user-images.githubusercontent.com/59180399/88076261-dc751a80-cb47-11ea-91dc-       f2fb722eb3e1.png" title="SessionsPublic" alt="Sesh" width="70%" height="70%"></a>
+          <a href="https://github.com/WabaScript/SessionTracker-mne"><img src="https://user-images.githubusercontent.com/59180399/88076261-dc751a80-cb47-11ea-91dc-       f2fb722eb3e1.png" title="SessionsPublic" alt="Sesh" width="50%" height="50%"></a>
         </td>
       </tr>
     </tbody>
