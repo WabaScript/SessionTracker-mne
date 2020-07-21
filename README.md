@@ -2,8 +2,8 @@
 Track anything and share with friends, ex. keeping a running score with a competitive friend 
 
 ## Log in with Google and see what other people are keeping up with!
-# Try it out!
-# https://session-board.herokuapp.com/dashboard
+<h4>Try it out!</h4>
+<h5> https://session-board.herokuapp.com/dashboard </h5>
 
 <div align="center">
   <table>
